@@ -6,3 +6,4 @@ xhofe/alist:latest
 liwangsheng/idle-game
 golang:1.22
 frooodle/s-pdf:latest
+ghcr.io/open-webui/open-webui:main
